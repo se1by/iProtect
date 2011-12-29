@@ -1,2 +1,1 @@
-Class-Path: WorldEdit.jar WorldGuard/WorldEdit.jar lib/WorldEdit.jar .
- ./lib/WorldEdit.jar ../WorldEdit.jar
+Class-Path: WorldGuard.jar WorldGuard/WorldGuard.jar lib/WorldGuard.jar .../lib/WorldGuard.jar ../WorldGuard.jar

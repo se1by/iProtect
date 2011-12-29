@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class iProtect extends JavaPlugin{
 
-	private final signListener signListener = new signListener(this);;
+	private final sListener signListener = new sListener();
 
 	@Override
 	public void onDisable() {
